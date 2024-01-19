@@ -1,3 +1,11 @@
+<br clear="both">
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/mohammednabi/count.svg?"  />
+</div>
+
+###
+
 <h2 align="left">Hi 👋, I'm Mohammed Nabil <br>⏬⏬⏬⏬⏬<br>Frontend Developer With An Eye Of Designer 👀🎨</h2>
 
 ###
@@ -52,7 +60,7 @@
 
 <br clear="both">
 
-<img align="right" height="320" src="https://cdn.dribbble.com/users/499505/screenshots/5879340/media/136075132fc6c5498fea47dfff820929.jpg?resize=1000x750&vertical=center"  />
+<img align="right" height="433" src="https://cdn.dribbble.com/users/499505/screenshots/5879340/media/136075132fc6c5498fea47dfff820929.jpg?resize=1000x750&vertical=center"  />
 
 ###
 
@@ -88,8 +96,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/mohammednabi/mohammednabi/output/snake.svg" alt="Snake animation" />
 
