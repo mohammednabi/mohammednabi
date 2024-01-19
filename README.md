@@ -8,8 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed nabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed nabil" height="30" width="40" /></a>
-</p>
-<p align="left">
 <a href="https://mohammed-nabil.vercel.app/" target="blank"><img align="center" src="/images/logo.png" alt="mohammed nabil" height="30" width="40" /></a>
 </p>
 
