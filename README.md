@@ -6,10 +6,10 @@
 
 ###
 
-<h2 align="left">Hi 👋, I'm Mohammed Nabil <br>⏬⏬⏬⏬⏬<br>Frontend Developer With An Eye Of Designer 👀🎨</h2>
+<h2 align="left">Hi 👋, I'm Mohammed Nabil <br><br>Frontend Developer With An Eye Of Designer 👀🎨</h2>
 
 ###
-
+<br/>
 <h2 align="left">Skills Stack ✨</h2>
 
 ###
