@@ -1,99 +1,86 @@
-<br clear="both">
+<div align="center">
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/mohammednabi/count.svg?"  />
+# Hi 👋, I'm Mohammed Nabil
+
+### Full-Stack Developer & Software Engineer 💻🚀
+*I am able to convert your desire into an application.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-nabil-790b951b4/)
+[![Email Me](https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammednabil200301@gmail.com?subject=Project%20Inquiry&body=Hi%20Mohammed%2C%0A%0AI%20would%20like%20to%20discuss%20an%20application%20idea...)
+![Profile Views](https://komarev.com/ghpvc/?username=mohammednabi&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
-###
+---
 
-<h2 align="left">Hi 👋, I'm Mohammed Nabil <br><br>Frontend Developer With An Eye Of Designer 👀🎨</h2>
+## 👨‍💻 About Me
 
-###
-<br/>
-<h2 align="left">Skills Stack ✨</h2>
+- 💻 **Full-Stack Developer & Software Engineer** focused on building scalable, end-to-end web applications.
+- 💡 **I am able to convert your desire into an application** — taking ideas from concept and UI/UX design to production-ready software.
+- 🎨 Combining strong **software engineering** fundamentals with **frontend architecture, 3D/interactive UI, and design**.
+- 📩 Available for collaborations and projects at **[mohammednabil200301@gmail.com](mailto:mohammednabil200301@gmail.com)**
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="50" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webflow/4353FF" height="50" alt="webflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
+## 🛠️ Tech & Engineering Stack
+
+### Languages & Core Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks, State & 3D
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+### Styling, Backend & Platforms
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+
+### Design & Motion
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
+---
+
+## 📩 Contact Me
+
+Have an idea you want to bring to life? Send me a message or reach out directly:
+
+<form action="https://formsubmit.co/mohammednabil200301@gmail.com" method="POST">
+  <input type="text" name="name" placeholder="Your Name" required />
+  <input type="email" name="email" placeholder="Your Email" required />
+  <textarea name="message" placeholder="Tell me about your application idea..." required></textarea>
+  <button type="submit">Send Message</button>
+</form>
+
+- 📧 **Email:** [mohammednabil200301@gmail.com](mailto:mohammednabil200301@gmail.com?subject=Project%20Inquiry&body=Hi%20Mohammed%2C%0A%0AName%3A%20%0AProject%20Details%3A%20)
+- 💼 **LinkedIn:** [Mohammed Nabil](https://www.linkedin.com/in/mohammed-nabil-790b951b4/)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mohammednabi&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" alt="Mohammed Nabil's GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammednabi&layout=compact&langs_count=8&theme=radical&hide_border=false" alt="Top Languages" />
 </div>
 
-###
-
-<h2 align="left">Find Me Here 📩</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="433" src="https://cdn.dribbble.com/users/499505/screenshots/5879340/media/136075132fc6c5498fea47dfff820929.jpg?resize=1000x750&vertical=center"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohammed-nabil-790b951b4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn%20%20%20&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/mo_nebo/?igsh=MWJ0cnp2cDgxMDV5cw%3D%3D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://mohammed-nabil.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=portfolio&logo=dribbble&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
-  </a>
+<div align="center">
+  <img height="175" src="https://streak-stats.demolab.com?user=mohammednabi&mode=daily&theme=radical&hide_border=false&border_radius=5" alt="GitHub Streak" />
 </div>
 
-###
+---
 
-<br clear="both">
-
-<p align="left"></p>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammednabi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="312" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammednabi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=false" height="165" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mohammednabi&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="165" alt="streak graph"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohammednabi/mohammednabi/output/snake.svg" alt="Contribution Snake Animation" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/mohammednabi/mohammednabi/output/snake.svg" alt="Snake animation" />
-
-###
