@@ -56,12 +56,12 @@
 
 Have an idea you want to bring to life? Send me a message or reach out directly:
 
-<form action="https://formsubmit.co/mohammednabil200301@gmail.com" method="POST">
+<!-- <form action="https://formsubmit.co/mohammednabil200301@gmail.com" method="POST">
   <input type="text" name="name" placeholder="Your Name" required />
   <input type="email" name="email" placeholder="Your Email" required />
   <textarea name="message" placeholder="Tell me about your application idea..." required></textarea>
   <button type="submit">Send Message</button>
-</form>
+</form> -->
 
 - 📧 **Email:** [mohammednabil200301@gmail.com](mailto:mohammednabil200301@gmail.com?subject=Project%20Inquiry&body=Hi%20Mohammed%2C%0A%0AName%3A%20%0AProject%20Details%3A%20)
 - 💼 **LinkedIn:** [Mohammed Nabil](https://www.linkedin.com/in/mohammed-nabil-790b951b4/)
